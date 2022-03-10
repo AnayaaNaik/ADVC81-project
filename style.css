@@ -1,0 +1,21 @@
+.body_backgorund {
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: rgb(10, 192, 238); 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      border: 10px ridge rgb(168, 219, 28);
+      background-color:rgb(241, 235, 235); 
+      /*border-style:ridge;*/
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  
